@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TEST_PlatMedSource",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
